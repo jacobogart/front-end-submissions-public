@@ -46,9 +46,9 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ## Jacob Bogart
 
-* [Node Server Tutorial]()
-* [Annotated Express server file]()
-* [Promise Practice Exercises]()
+* [Node Server Tutorial](https://github.com/jacobogart/Node-Server-Tuturial-Prework)
+* [Annotated Express server file](https://github.com/jacobogart/helms-keep/blob/e30f722302343f60b94b81da3b82485d10eaf35a/server/app.js)
+* [Promise Practice Exercises](https://repl.it/@jacobogart/Mod-4-Prework-Promises)
 
 ## Jarrett Kong
 
