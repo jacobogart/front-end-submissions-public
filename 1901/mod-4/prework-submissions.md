@@ -46,7 +46,7 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ## Jacob Bogart
 
-* [Node Server Tutorial]()
+* [Node Server Tutorial](https://github.com/jacobogart/Node-Server-Tuturial-Prework)
 * [Annotated Express server file]()
 * [Promise Practice Exercises]()
 
